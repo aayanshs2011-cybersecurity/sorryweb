@@ -1,0 +1,19 @@
+{
+  "name": "Sorry Bear",
+  "short_name": "Sorry Bear",
+  "description": "A cute little apology just for you — say yes?",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffe4ef",
+  "theme_color": "#f95d95",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
